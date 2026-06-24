@@ -7,10 +7,22 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="" alt="LOGO">
-    <input type="text">
-
-
+    <div class="container">
+        <div class="round">
+            <img src="" alt="LOGO">
+        </div>
+        <div class="input-label">
+            <label for="nome">Usuário</label>
+            <input type="text" id="nome" placeholder="Insira o usuário">
+        </div>
+        <div class="input-label">
+            <label for="senha">Senha</label>
+            <input type="password" id="senha" placeholder="Insira a senha">
+            <div onclick="showpassword()">
+                <img src="../../public/eye.png" alt="">
+            </div>
+        </div>
+    <div>
     <script src="script.js"></script>
 </body>
 </html>
