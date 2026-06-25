@@ -12,8 +12,8 @@ function login(){
         window.location.href = "../loja"
     }else{
         document.getElementById("error-modal").style.display = "flex"
-        document.getElementById("nome").style.borderBottom = "3px solid rgba(239, 108, 128, 0.832)"
-        document.getElementById("senha").style.borderBottom = "3px solid rgba(239, 108, 128, 0.832)"
+        document.getElementById("nome").style.borderBottom = "3px solid rgba(255, 123, 0, 0.83)"
+        document.getElementById("senha").style.borderBottom = "3px solid rgba(255, 123, 0, 0.83)"
     }
 }
 
