@@ -19,7 +19,7 @@ window.onload = function () {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("../Dados/data.json")
+    fetch("../dados/data.json")
         .then((response) => response.json())
         .then((data) => {
             produtos = data
@@ -55,4 +55,14 @@ document.getElementById("produtos-container").addEventListener("click", function
     carrinho.push(produtoSelecionado)
     localStorage.setItem("carrinho", JSON.stringify(carrinho))
     alert("Produto adicionado com sucesso!!!")
+
+    fetch("../dados/data.json")
+    .then(response => {
+        console.log(response.status);
+        return response.json();
+    })
+    .then(data => {
+        console.log(data);
+    })
+    .catch(error => console.log(error));ss
 })

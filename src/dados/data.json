@@ -2,151 +2,151 @@
   {
     "id": 1,
     "desc": "Goblin Den - Framboesa",
-    "imagem": "/public/gorila.jpg",
+    "imagem": "../../public/GoblinDen.jpg",
     "valor": 5000.00
   },
   {
     "id": 2,
     "desc": "Pineapple Express - Abacaxi",
-    "imagem": "/public/macaco.jpg",
+    "imagem": "../../public/PineappleExpress.jpg",
     "valor": 3000.00
   },
   {
     "id": 3,
     "desc": "Melted Banana - Banoffee",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/MeltedBanana.jpg",
     "valor": 4500.00
   },
   {
     "id": 4,
     "desc": "Purple Haze - Uva",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/Purplehaze.jpg",
     "valor": 4500.00
   },
   {
     "id": 5,
     "desc": "Strawberry Fields - Morango",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/StrawberryFields.jpg",
     "valor": 4500.00
   },
   {
     "id": 6,
     "desc": "Mind Control - Menta Black",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/MentaBlack.jpg",
     "valor": 4500.00
   },
   {
     "id": 7,
     "desc": "Green Goblin - Hortelã",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/GreenGoblin.jpg",
     "valor": 4500.00
   },
   {
     "id": 8,
     "desc": "Blueberry Bliss - Blueberry",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/BlueberryBliss.jpg",
     "valor": 4500.00
   },
   {
     "id": 9,
     "desc": "Wild Trip - Frutas Vermelhas",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/WildTrip.jpg",
     "valor": 4500.00
   },
   {
     "id": 10,
     "desc": "Sacred Fig - Figo com Mel",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/SacredFig.jpg",
     "valor": 4500.00
   },
   {
     "id": 11,
     "desc": "Acid Apple - Maçã Verde",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/AcidApple.jpg",
     "valor": 4500.00
   },
   {
     "id": 12,
     "desc": "Pink Panther - Iogurte de Morango",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/PinkPanther.jpg",
     "valor": 4500.00
   },
   {
     "id": 13,
     "desc": "Orange Sunshine - Laranja",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/OrangeSunshine.jpg",
     "valor": 4500.00
   },
   {
     "id": 14,
     "desc": "Crystalline - Menta Pura Ice",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/Crystalline.jpg",
     "valor": 4500.00
   },
   {
     "id": 15,
     "desc": "Hypnotic - Café Expresso",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/hypnotic.jpg",
     "valor": 4500.00
   },
   {
     "id": 16,
     "desc": "Lemon Haze - Limão",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/LemonHaze.jpg",
     "valor": 4500.00
   },
   {
     "id": 17,
     "desc": "Red Dragon - Pimenta com Mel",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/RedDragron.jpg",
     "valor": 4500.00
   },
   {
     "id": 18,
     "desc": "Gamma Goblin - Menta com Hortelã",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/GammaGoblin.jpg",
     "valor": 4500.00
   },
   {
     "id": 19,
     "desc": "White on White - Chocolate Branco",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/WhiteOnWhite.jpg",
     "valor": 4500.00
   },
   {
     "id": 20,
     "desc": "Hofman - Canela",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/Hofman.jpg",
     "valor": 4500.00
   },
   {
     "id": 21,
     "desc": "California Sunshine - Laranja e Mimosa",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/CaliforniaSunshine.jpg",
     "valor": 4500.00
   },
   {
     "id": 22,
     "desc": "Buddha - Chá Verde com Limão",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/Buddha.jpg",
     "valor": 4500.00
   },
   {
     "id": 23,
     "desc": "Shiva - Maracujá Tropical",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/Shiva.jpg",
     "valor": 4500.00
   },
   {
     "id": 24,
     "desc": "Aztec - Cacau Intenso",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/Aztec.jpg",
     "valor": 4500.00
   },
   {
     "id": 25,
     "desc": "Avatar - Blue Ice",
-    "imagem": "/public/chimpanze.jpg",
+    "imagem": "../../public/Avatar.jpg",
     "valor": 4500.00
   }
 ]
