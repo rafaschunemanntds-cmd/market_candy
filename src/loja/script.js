@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 const card = document.createElement("div")
                 card.innerHTML = `
                     <div class="card" style="width: 18rem;">
-                        <img src="${produto.imagem}" class="card-img-top" alt="${produto.desc}">
+                        <img src="${produto.imagem}" class="card-img-top" alt="${produto.desc}" width="400px">
                         <div class="card-body">
                             <h5 class="card-title">${produto.desc}</h5>
                             <p class="card-text">$${produto.valor.toFixed(2)}</p>

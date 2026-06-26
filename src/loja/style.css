@@ -41,3 +41,8 @@ body{
     align-items: center;
     gap: 20px;
 }
+
+.card-img-top{
+    width: 200px;
+    height: 300px;
+}
